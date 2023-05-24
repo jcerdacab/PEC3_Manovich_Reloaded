@@ -25,7 +25,7 @@ Uber y Zoom son dos ejemplos destacados de hibridación en la era digital, ilust
 
 Uber es un ejemplo de hibridación en el ámbito de las tecnologías digitales, ya que une varias tecnologías y conceptos para proporcionar un servicio de transporte único y revolucionario. Es como tener un servicio de taxi pero en tu bolsillo. Nacido del solapamiento del GPS, mapa interactivo, pasarela de pago, chat y compartir ubicación. (Uber, 2015)
 
-<img align="center" width="200" height="400" src="https://github.com/jcerdacab/PEC3_Manovich_Reloaded/assets/134504485/85c270c8-db87-4f2e-a18b-3edf4bbb147d">
+<p align="center"><img width="200" height="400" src="https://github.com/jcerdacab/PEC3_Manovich_Reloaded/assets/134504485/85c270c8-db87-4f2e-a18b-3edf4bbb147d"></p>
 
 La plataforma ofrece varios servicios integrados y conectados entre sí. Su funcionamiento se inicia con la selección de la ruta a través de una API de mapas, la elección de un taxi mediante una lista de datos, el pago del recorrido a través de una pasarela de pago, el seguimiento del trayecto del vehículo, un chat para comunicarse con el conductor y la opción de compartir el recorrido para garantizar la seguridad del usuario. Todos estos elementos se combinan y se superponen en el proceso completo, desde el inicio hasta el final, al solicitar un transporte. Por ejemplo, no es posible utilizar el chat sin haber contratado previamente el servicio con un conductor. De la misma manera, no se puede compartir el trayecto si no se ha finalizado el proceso con el pago de la ruta, se trata de una integración indivisible.
 
