@@ -43,6 +43,7 @@ Con las "gafas de Manovich", Uber es un ejemplo claro de hibridación digital. S
 
 Zoom es otro gran ejemplo de hibridación en tecnología digital. Es un servicio de videoconferencia en la nube que te permite hablar con otras personas por vídeo, audio o ambos. Además, puedes chatear con ellas en tiempo real y hasta grabar lo que se dice para poder verlo más tarde. Si alguien organiza una reunión usando Zoom, puedes participar en ella a través de tu webcam o tu teléfono.(Pocket-lint, 2023)
 
+<p align="center"><img width="200" height="400" src="https://github.com/jcerdacab/PEC3_Manovich_Reloaded/assets/134504485/bd8c38fd-ba3f-460a-b8e1-cdc1e60bd0d9"><br><b>Autor:</b><i>Juan Antonio Cerdá Cabanes</i></p>
 
 
 La app de Zoom une varias funciones para mejorar la comunicación digital. Todo comienza con la creación de una reunión, donde se selecciona el número de participantes. Los participantes son invitados a través de un enlace que se puede compartir por email o chat.
