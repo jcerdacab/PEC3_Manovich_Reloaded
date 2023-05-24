@@ -51,7 +51,7 @@ Una vez en la reunión, los usuarios pueden compartir su pantalla, lo que permit
 Además, existe la opción de grabar las sesiones para revisarlas posteriormente, y la transcripción automática convierte el audio en texto, creando así un registro textual de la reunión.
 Todos estos elementos se superponen y se combinan en el proceso completo de organizar y participar en una reunión.
 
-<p align="center"><img width="200" height="400" src="https://github.com/jcerdacab/PEC3_Manovich_Reloaded/assets/134504485/7946ba12-e7aa-4fab-a1c8-daef2c3ca753"><br><b>Autor:</b><i>Juan Antonio Cerdá Cabanes</i></p>
+<p align="center"><img src="https://github.com/jcerdacab/PEC3_Manovich_Reloaded/assets/134504485/7946ba12-e7aa-4fab-a1c8-daef2c3ca753"><br><b>Autor:</b><i>Juan Antonio Cerdá Cabanes</i></p>
 
 Zoom es una herramienta útil que permite realizar videoconferencias tanto individuales como grupales, pudiendo llegar hasta 500 participantes, dependiendo del tipo de cuenta que poseas. Con una cuenta gratuita, puedes realizar reuniones de hasta 40 minutos con un máximo de 100 personas.
 En Zoom, puedes compartir tu pantalla para mostrar clases, procesos, videos, etc., haciendo que el otro participante vea lo mismo que tú en tiempo real. También puedes pausar o detener esta función cuando lo necesites.
