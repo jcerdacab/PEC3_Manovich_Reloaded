@@ -27,9 +27,6 @@ Uber es un ejemplo de hibridación en el ámbito de las tecnologías digitales, 
 
 La plataforma ofrece varios servicios integrados y conectados entre sí. Su funcionamiento se inicia con la selección de la ruta a través de una API de mapas, la elección de un taxi mediante una lista de datos, el pago del recorrido a través de una pasarela de pago, el seguimiento del trayecto del vehículo, un chat para comunicarse con el conductor y la opción de compartir el recorrido para garantizar la seguridad del usuario. Todos estos elementos se combinan y se superponen en el proceso completo, desde el inicio hasta el final, al solicitar un transporte. Por ejemplo, no es posible utilizar el chat sin haber contratado previamente el servicio con un conductor. De la misma manera, no se puede compartir el trayecto si no se ha finalizado el proceso con el pago de la ruta, se trata de una integración indivisible.
 
-![Chat](https://github.com/jcerdacab/PEC3_Manovich_Reloaded/assets/134504485/7946ba12-e7aa-4fab-a1c8-daef2c3ca753)
-
-
 Uber es una aplicación fácil de usar que pone en contacto a conductores y pasajeros. Como usuario, sólo necesitas registrarte, introducir tus datos básicos y seleccionar cómo quieres pagar. No necesitas llevar dinero encima, ya que el pago se realiza automáticamente a través de la app.
 Usar Uber es un proceso intuitivo. Solo tienes que poner tu destino, escoger qué tipo de Uber quieres (como UberX, Comfort, o Exec), y en poco tiempo, te asignarán un conductor que esté cerca. Puedes ver quién es tu conductor, qué coche conduce, y seguir su camino hacia ti en la aplicación.
 Una vez que estás en el coche, puedes rastrear tu ruta y compartir tu hora estimada de llegada con quien quieras. Cuando llegas, la aplicación se encarga de pagar al conductor, y tú puedes darle una puntuación basada en tu experiencia.
@@ -52,6 +49,8 @@ La app de Zoom une varias funciones para mejorar la comunicación digital. Todo 
 Una vez en la reunión, los usuarios pueden compartir su pantalla, lo que permite a otros ver sus presentaciones, documentos o pizarras virtuales. Esto se solapa con la opción de chatear y de compartir una pizarra virtual con los participantes durante la reunión, todo integrado en la videoconferencia. 
 Además, existe la opción de grabar las sesiones para revisarlas posteriormente, y la transcripción automática convierte el audio en texto, creando así un registro textual de la reunión.
 Todos estos elementos se superponen y se combinan en el proceso completo de organizar y participar en una reunión.
+
+![Chat](https://github.com/jcerdacab/PEC3_Manovich_Reloaded/assets/134504485/7946ba12-e7aa-4fab-a1c8-daef2c3ca753)
 
 Zoom es una herramienta útil que permite realizar videoconferencias tanto individuales como grupales, pudiendo llegar hasta 500 participantes, dependiendo del tipo de cuenta que poseas. Con una cuenta gratuita, puedes realizar reuniones de hasta 40 minutos con un máximo de 100 personas.
 En Zoom, puedes compartir tu pantalla para mostrar clases, procesos, videos, etc., haciendo que el otro participante vea lo mismo que tú en tiempo real. También puedes pausar o detener esta función cuando lo necesites.
