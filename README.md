@@ -8,7 +8,7 @@ Autor: Juan Antonio Cerdá Cabanes
 
 Fecha: 24-05-2023
  
-<p align="center"><img src="https://github.com/jcerdacab/PEC3_Manovich_Reloaded/assets/134504485/fb2dbbc7-7aa8-48c0-855b-90f286d479ba"><br><b>Autor:</b><i>Freepik</i></p>
+<p align="center"><img src="https://github.com/jcerdacab/PEC3_Manovich_Reloaded/assets/134504485/fb2dbbc7-7aa8-48c0-855b-90f286d479ba"><br><b>Autor:</b><i>Freepik. "Mano que sostiene el concepto de redes sociales de teléfonos inteligentes". https://github.com/jcerdacab/PEC3_Manovich_Reloaded/assets/134504485/fb2dbbc7-7aa8-48c0-855b-90f286d479ba </i></p>
 
 ## Planteamiento
 
