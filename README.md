@@ -34,6 +34,9 @@ Usar Uber es un proceso intuitivo. Solo tienes que poner tu destino, escoger qu�
 Una vez que estás en el coche, puedes rastrear tu ruta y compartir tu hora estimada de llegada con quien quieras. Cuando llegas, la aplicación se encarga de pagar al conductor, y tú puedes darle una puntuación basada en tu experiencia.
 Uber también tiene algunas características extra muy útiles. Puedes guardar tus direcciones habituales para no tener que escribirlas cada vez, y también puedes compartir tu viaje con personas de confianza, para que sepan que estás a salvo.(Pocket-lint, 2023)
 
+![IMG_1986](https://github.com/jcerdacab/PEC3_Manovich_Reloaded/assets/134504485/d474f52c-6daf-4383-b9f0-f9a8c7ffb17b)
+
+
 Con las "gafas de Manovich", Uber es un ejemplo claro de hibridación digital. Se trata de un servicio que combina lo físico con lo digital, los viajes en coche con la tecnología informática. Por un lado, tenemos el viaje en sí, una actividad humana tan antigua como el tiempo. Por otro lado, tenemos la interfaz digital que lo facilita: la aplicación Uber que conecta a conductores y pasajeros. Esta combinación de elementos antiguos y nuevos es un ejemplo perfecto de la hibridación en el mundo moderno. Las 'gafas de Manovich' nos permiten ver esta fusión de medios y cómo, a través de esta hibridación, y el solapamiento de los medios, han revolucionado la forma en que las personas se desplazan por la ciudad.
 
 
