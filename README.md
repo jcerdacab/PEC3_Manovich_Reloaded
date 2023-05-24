@@ -25,6 +25,8 @@ Uber y Zoom son dos ejemplos destacados de hibridación en la era digital, ilust
 
 Uber es un ejemplo de hibridación en el ámbito de las tecnologías digitales, ya que une varias tecnologías y conceptos para proporcionar un servicio de transporte único y revolucionario. Es como tener un servicio de taxi pero en tu bolsillo. Nacido del solapamiento del GPS, mapa interactivo, pasarela de pago, chat y compartir ubicación. (Uber, 2015)
 
+![IMG_1985](https://github.com/jcerdacab/PEC3_Manovich_Reloaded/assets/134504485/7fccb05c-e319-49cb-b239-c2c7f2b23cfa)
+
 La plataforma ofrece varios servicios integrados y conectados entre sí. Su funcionamiento se inicia con la selección de la ruta a través de una API de mapas, la elección de un taxi mediante una lista de datos, el pago del recorrido a través de una pasarela de pago, el seguimiento del trayecto del vehículo, un chat para comunicarse con el conductor y la opción de compartir el recorrido para garantizar la seguridad del usuario. Todos estos elementos se combinan y se superponen en el proceso completo, desde el inicio hasta el final, al solicitar un transporte. Por ejemplo, no es posible utilizar el chat sin haber contratado previamente el servicio con un conductor. De la misma manera, no se puede compartir el trayecto si no se ha finalizado el proceso con el pago de la ruta, se trata de una integración indivisible.
 
 Uber es una aplicación fácil de usar que pone en contacto a conductores y pasajeros. Como usuario, sólo necesitas registrarte, introducir tus datos básicos y seleccionar cómo quieres pagar. No necesitas llevar dinero encima, ya que el pago se realiza automáticamente a través de la app.
@@ -70,7 +72,7 @@ En conclusión, tanto Uber como Zoom son ejemplos excepcionales de hibridación 
 * Pocket-lint (2023). **"¿Qué es Uber y cómo funciona?"**. Disponible en: https://www.pocket-lint.com/es-es/aplicaciones/noticias/uber/139559-que-es-uber-y-como-funciona/
 * Pocket-lint (2023). **"¿Qué es Zoom y cómo funciona? Más consejos y trucos"**. Disponible en: https://www.pocket-lint.com/es-es/aplicaciones/noticias/151426-que-es-zoom-y-como-funciona-mas-consejos-y-trucos/
 * Superprof (2021). **"Las principales opciones de Zoom para las clases online"**. Disponible en: https://www.superprof.es/blog/caracteristicas-disponibles-zoom/ 
-* 
+
 
 
 
