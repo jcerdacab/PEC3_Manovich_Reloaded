@@ -72,6 +72,7 @@ En conclusión, tanto Uber como Zoom son ejemplos excepcionales de hibridación 
 * Pocket-lint (2023). **"¿Qué es Uber y cómo funciona?"**. Disponible en: https://www.pocket-lint.com/es-es/aplicaciones/noticias/uber/139559-que-es-uber-y-como-funciona/
 * Pocket-lint (2023). **"¿Qué es Zoom y cómo funciona? Más consejos y trucos"**. Disponible en: https://www.pocket-lint.com/es-es/aplicaciones/noticias/151426-que-es-zoom-y-como-funciona-mas-consejos-y-trucos/
 * Superprof (2021). **"Las principales opciones de Zoom para las clases online"**. Disponible en: https://www.superprof.es/blog/caracteristicas-disponibles-zoom/ 
+* https://www.freepik.es/foto-gratis/mano-que-sostiene-concepto-redes-sociales-telefonos-inteligentes_38689785.htm#query=hibridacion%20medios&position=0&from_view=search&track=ais
 
 
 
