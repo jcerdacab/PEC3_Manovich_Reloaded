@@ -56,7 +56,7 @@ Otra característica útil de Zoom es la grabación de reuniones en la nube. Si 
 Además, puedes usar Zoom desde cualquier navegador mediante complementos o extensiones, como el complemento Zoom Outlook o las extensiones para Google Chrome y Mozilla Firefox.
 Zoom también ofrece la posibilidad de personalizar el fondo de tu escritorio y utilizar una pizarra digital interactiva, ideal para clases online, donde los participantes pueden ver e interactuar con lo que el anfitrión está escribiendo. (Superprof, 2021)
 
-![Pizarra virtual](https://github.com/jcerdacab/PEC3_Manovich_Reloaded/assets/134504485/2821e731-559e-44f4-a1f9-c2e2f7a5e186)
+
 
 
 Utilizando las "gafas de Manovich", Zoom es una muestra de hibridación digital, donde se entrelaza lo físico y lo digital. Por un lado, tenemos las reuniones y conferencias, un elemento humano básico. Por otro, está la plataforma digital de Zoom que facilita estas interacciones. La aplicación combina la videoconferencia, el chat, las pizarras y los fondos de pantalla, y permite una interacción a tiempo real sin importar la ubicación geográfica. Esta mezcla de antiguos y nuevos medios muestra cómo la hibridación en el mundo digital ha transformado la comunicación y la colaboración. Las "gafas de Manovich" revelan cómo Zoom ha revolucionado la forma en que trabajamos, estudiamos y socializamos.
