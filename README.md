@@ -7,11 +7,9 @@ Autor: Juan Antonio Cerdá Cabanes
 
 
 Fecha: 24-05-2023
-
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+ 
 ![Hibridación](https://github.com/jcerdacab/PEC3_Manovich_Reloaded/assets/134504485/fb2dbbc7-7aa8-48c0-855b-90f286d479ba)
-
-
+<p align="center"><img src="https://github.com/jcerdacab/PEC3_Manovich_Reloaded/assets/134504485/85c270c8-db87-4f2e-a18b-3edf4bbb147d"><br><b>Autor:</b><i>Freepik</i></p>
 
 ## Planteamiento
 
